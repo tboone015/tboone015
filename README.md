@@ -3,6 +3,7 @@
 - ✏ I'm currently learning about the ins and outs of Computer Science.
 - ⌨ I'm currently working on a Duplicate Code Detector, a CLI tool for detecting near-duplicate Java code blocks to suggest refactoring opportunities, for CS 350.
 - 🐍 Fun Fact About Me: The first programming language that I learned was Python, and I’ve been hooked on coding ever since!
+- 👩‍🎓 I'm looking for help regarding the career path that would best suit me!
 
 <details>
 <summary>My top languages</summary>
