@@ -24,7 +24,7 @@
  📌 *Check out more on my repositories!* 
 
  ## Career Interests
- ##### I'm currently exploring potential career paths in:
+ ##### I'm currently exploring potential careers such as:
  - Software Developer
  - Systems Analyst
  - IT Administrator
