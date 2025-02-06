@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Tennya!
 
-- ✏ I'm currently learning about the ins and outs of Computer Science.
-- ⌨ I'm currently working on a Duplicate Code Detector, a CLI tool for detecting near-duplicate Java code blocks to suggest refactoring opportunities, for CS 350.
-- 🐍 Fun Fact About Me: The first programming language that I learned was Python, and I’ve been hooked on coding ever since!
+- ✏ I'm currently diving deep into the world of Computer Science and exploring various fields.
+- ⌨ I'm currently working on a **Duplicate Code Detector**, a CLI tool for detecting near-duplicate Java code blocks to suggest refactoring opportunities, for **CS 350**.
 - 👩‍🎓 I'm looking for help regarding the career path that would best suit me!
+- 🐍 **Fun Fact About Me**: The first programming language that I learned was Python, and I’ve been hooked on coding ever since!
 
 <details>
 <summary>My top languages</summary>
@@ -22,6 +22,12 @@
 **[Cars]** - *This code allows for different modes of transportation to be made with an array list and outputs the provided information*
 
  📌 *Check out more on my repositories!* 
+
+ ## Career Interests
+ ##### I'm currently exploring potential career paths in:
+ - Software Developer
+ - Systems Analyst
+ - IT Administrator
 <!--
 **tboone015/tboone015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
